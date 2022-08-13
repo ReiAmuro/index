@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+html {
+        font-family: sans-serif;
+}
+html * {
+        background-image: url("white.jpeg") ;
+        box-sizing: border-box;
+}
+.gaiyou {
+        font: italic small-caps bold 16px/2 cursive;
+}
+.massiroinn {
+        font-size: 30px;
+}
+body {
+        margin: 0 0 0 0;
+
+}
+.amurorei {
+        margin: 0 auto 0 auto;
+        max-width: 960px;
+}
+h1 {
+        font-size: 50px ;
+        font-family: Impact, Haettenschweiler, 
+        'Arial Narrow Bold', sans-serif;
+        border-bottom: 3px solid black;
+}
+h11 {
+        font-size: 30px;
+}
